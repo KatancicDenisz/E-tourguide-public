@@ -7,4 +7,8 @@ The client is able to choose a city where he wants to tour. At the moment there 
 
 I won't share the code for this project, because I am still working on it to deploy it to the App/Play store, but images of the app can be found in the images folder.
 
-![E-tourguide main screen]()
+![E-tourguide main screen](./images/Screenshot_20210505_101107_host.exp.exponent.jpg)
+
+![E-tourguide map](./images/Screenshot_20210505_101223_host.exp.exponent.jpg)
+
+![E-tourguide attraction menu](./images/Screenshot_20210505_101241_host.exp.exponent.jpg)
