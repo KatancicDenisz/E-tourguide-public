@@ -9,6 +9,6 @@ I won't share the code for this project, because I am still working on it to dep
 
 <p align="center">
 <img src="https://github.com/KatancicDenisz/E-tourguide-public/blob/main/images/Screenshot_20210505_101107_host.exp.exponent.jpg" width="280" height="600"> &nbsp; &nbsp;
- <img src="https://github.com/KatancicDenisz/E-tourguide-public/blob/main/images/Screenshot_20210505_101223_host.exp.exponent.jpg" width="280" height="600" > &nbsp; &nbsp; 
+ <img src="https://github.com/KatancicDenisz/E-tourguide-public/blob/main/images/Screenshot_20210505_101215_host.exp.exponent.jpg" width="280" height="600" > &nbsp; &nbsp; 
  <img src="https://github.com/KatancicDenisz/E-tourguide-public/blob/main/images/Screenshot_20210505_101241_host.exp.exponent.jpg" width="280" height="600" > &nbsp; &nbsp;
 </p>
